@@ -2,13 +2,8 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("Teemu Kuutti's first streamlit app")
-
-import streamlit as st
-import pandas as pd
-import numpy as np
-
-st.title("Simple Streamlit Chart")
+st.title("week 1 assignment")
+st.write("By Teemu Kuutti")
 
 # Create sample data
 data = pd.DataFrame(
